@@ -6,4 +6,4 @@ namespace data_io {
 	void output_time(const int time);
 }
 
-#endif // DATA_IO_H
+#endif // DATA_IO_H  
